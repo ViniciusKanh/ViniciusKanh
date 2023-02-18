@@ -1,6 +1,19 @@
 ![Vinicius de souza santos](https://user-images.githubusercontent.com/80977502/114060706-06a07100-986c-11eb-9abc-f05f0eecd5b1.png)
 
 ##
+  <br/>
+ 
+ **Languages and Tools 🚀**
+
+
+
+
+<a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="HTML5" width="21px" height="21px"></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="Javascript" width="21px" height="21px"></a>
+<a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="21px" height="21px"></a>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ViniciusKanh&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
  <div>
   <a href="https://github.com/ViniciusKanh">
@@ -12,7 +25,18 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+ 
+  <br/>
 
+ ```j
+const importantLinks = {
+   📒 Linkedin: 'https://www.linkedin.com/in/vinicius-souza-santos-308654255/', 
+   👋 Email: 'vinnyciussouza@outlook.com',
+   🌱 Portfólio: ''
+}
+```
+
+ 
 ### Hey👍🏻
 ## Meu Nome é Vinicius Santos🙎🏻‍♂️🇧🇷.
 
