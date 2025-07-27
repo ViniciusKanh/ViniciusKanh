@@ -458,7 +458,7 @@ const viniciusContacts = {
 
 📈 Métricas Avançadas
 
-![Metrics](https://metrics.lecoq.io/ViniciusKanh?template=classic&config.timezone=America%2FSao_Paulo&config.animated=true)
+![GitHub Metrics](./github-metrics.svg)
 
 
 
