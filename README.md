@@ -197,17 +197,17 @@ Minha paixão reside em desenvolver e implementar modelos de análise de dados q
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/flat-icons/80/000000/financial-account.png" alt="Financeiro" width="80"/>
+<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/100/null/external-bank-banking-flaticons-flat-flat-icons.png" alt="Financeiro" width="80"/>
 <br><strong>🏦 Setor Financeiro</strong>
 <br><em>Modelos de risco de crédito, detecção de fraudes, otimização de portfólios de investimento, análise de comportamento de pagamento.</em>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/80/000000/external-healthcare-medical-flaticons-flat-flat-icons.png" alt="Healthcare" width="80"/>
+<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/100/null/external-hospital-medical-and-healthcare-flaticons-flat-flat-icons.png" alt="Healthcare" width="80"/>
 <br><strong>🏥 Saúde</strong>
 <br><em>Análise de dados clínicos, modelos preditivos para diagnósticos, otimização de tratamentos, análise epidemiológica.</em>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/80/000000/external-retail-business-flaticons-flat-flat-icons.png" alt="Retail" width="80"/>
+<img src="https://img.icons8.com/fluency-systems-filled/80/000000/shopping-cart.png" alt="Retail" width="80"/>
 <br><strong>🛒 Varejo & E-commerce</strong>
 <br><em>Previsão de demanda, análise de cesta de compras, segmentação de clientes, otimização de preços dinâmicos.</em>
 </td>
@@ -224,7 +224,7 @@ Minha paixão reside em desenvolver e implementar modelos de análise de dados q
 <br><em>Análise de desempenho estudantil, personalização de aprendizado, predição de evasão escolar.</em>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/80/000000/external-agriculture-farming-flaticons-flat-flat-icons.png" alt="Agriculture" width="80"/>
+<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/100/null/external-tractor-farm-flaticons-flat-flat-icons.png" alt="Agriculture" width="80"/>
 <br><strong>🌾 Agronegócio</strong>
 <br><em>Otimização de colheitas, análise de solo e clima, previsão de safras, agricultura de precisão.</em>
 </td>
@@ -448,7 +448,9 @@ const viniciusContacts = {
 
 🎵 Spotify - Coding Playlist
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31k6rlzwxkjf5d4qnx7aw6i5z5aq&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=00d9ff&bar_color_cover=false" alt="Spotify"/>
+[![Spotify](https://img.icons8.com/fluency/48/000000/spotify.png)](https://open.spotify.com/user/12145547877)
+
+
 
 
 
@@ -456,7 +458,7 @@ const viniciusContacts = {
 
 📈 Métricas Avançadas
 
-<img src="https://metrics.lecoq.io/ViniciusKanh?template=classic&config.timezone=America%2FSao_Paulo&config.animated=true" alt="Metrics"/>
+![Metrics](https://metrics.lecoq.io/ViniciusKanh?template=classic&config.timezone=America%2FSao_Paulo&config.animated=true)
 
 
 
