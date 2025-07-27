@@ -6,10 +6,10 @@
 
 <!-- Typing Animation com mais frases -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=🚀+Transformando+dados+em+insights+estratégicos;📊+Especialista+em+Machine+Learning+e+IA;🎯+Criando+modelos+para+diversos+setores;✨+Bem-vindo+ao+meu+universo+de+dados!" alt="Typing SVG" />
+
 
 <!-- Avatar com efeito hover -->
-
+<br><br>
 <br/>
 <img src="https://private-user-images.githubusercontent.com/66964047/471251318-d366e680-ca60-4035-9d13-d18fec3ff993.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM2NDg0NDEsIm5iZiI6MTc1MzY0ODE0MSwicGF0aCI6Ii82Njk2NDA0Ny80NzEyNTEzMTgtZDM2NmU2ODAtY2E2MC00MDM1LTlkMTMtZDE4ZmVjM2ZmOTkzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI3VDIwMjkwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNiNDUxMTUxMTA3YTAzNzAwNjY2MDY5ODA2MmUwYzUyOTVlZDFhOTUzNDI2NDNlMWZkMzAyNjNlMjI1M2Q3NDImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.-161lmAhaobaWDL41JsqfESfb6A0GRn0DwNI15jDW0U" alt="Vinicius Avatar" width="200" height="200" style="border-radius: 50%; border: 4px solid #00D9FF; box-shadow: 0 0 20px #00D9FF;"/>
 
@@ -243,6 +243,19 @@ Minha paixão reside em desenvolver e implementar modelos de análise de dados q
 
 </div>
 
+## 📖 Publicações Científicas Revisadas por Pares (2024–2025)
+
+| Área Temática                       | Título                                                                                                                                                 | Publicação                             | Ano  |
+|------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|------|
+| 🏥 Saúde & IA Médica               | *Comparison and Selection of Machine Learning Algorithms for Diabetes Prediction*                                                                     | Revista TH                              | 2024 |
+| 🏥 Saúde & IA Médica               | *Predição de Obesidade Baseada em Hábitos Alimentares e Condições Físicas*                                                                            | ResearchGate                            | 2024 |
+| ⚡ Cidades Inteligentes & Energia  | *Modelagem e Previsão de Consumo Energético em Ambientes Urbanos: Explorando o Potencial do Machine Learning*                                         | FAPESP Research Grant                   | 2024 |
+| ⚡ Cidades Inteligentes & Energia  | *Modelagem e Previsão de Consumo Energético em Ambientes Urbanos* (PT/EN)                                                                             | ResearchGate                            | 2025 |
+| ⚡ Cidades Inteligentes & Energia  | *Revisão Sistemática: Otimização da Eficiência Energética com IA*                                                                                      | ResearchGate                            | 2024 |
+| 🔧 Manutenção Preditiva            | *Ferramenta de Manutenção Preditiva para Transformadores de Potência*                                                                                  | Revista Contemporânea                   | 2024 |
+| 🎓 Tecnologia Educacional         | *Sistema Didático para Correção de Fator de Potência com DL69-2048/D52-2048*                                                                           | Brazilian Journal of Development        | 2024 |
+| 📚 Multidisciplinar               | *Capítulo: Machine Learning Aplicado à Saúde (obra coletiva)*                                                                                          | Machine Learning in Healthcare (Livro)  | 2024 |
+
 
 
 
@@ -253,21 +266,18 @@ Minha paixão reside em desenvolver e implementar modelos de análise de dados q
 
 💼 Redes Profissionais
 
-JavaScript
-
-
+```js
 const viniciusContacts = {
-    🌟 portfolio: "https://viniciuskanh.github.io/Portfolio-HTML-JS/",
-    📧 email: "vinnyciussouza@outlook.com",
-    📍 location: "São Paulo, Brazil",
-    💼 linkedin: "https://www.linkedin.com/in/vinicius-souza-santoss/",
-    🏆 kaggle: "https://www.kaggle.com/viniciuskhan",
-    🤗 huggingface: "https://huggingface.co/ViniciusKhan",
-    📊 status: "Transformando dados em valor estratégico 24/7",
-    🎯 mission: "Democratizando a ciência de dados"
+  🌟 portfolio: "https://viniciuskanh.github.io/Portfolio-HTML-JS/",
+  📧 email: "vinnyciussouza@outlook.com",
+  📍 location: "São Paulo, Brazil",
+  💼 linkedin: "https://www.linkedin.com/in/vinicius-souza-santoss/",
+  🏆 kaggle: "https://www.kaggle.com/viniciuskhan",
+  🤗 huggingface: "https://huggingface.co/ViniciusKhan",
+  📊 status: "Transformando dados em valor estratégico 24/7",
+  🎯 mission: "Democratizando a ciência de dados"
 };
-
-
+```
 <!-- Links principais -->
 
 <p>
@@ -390,29 +400,6 @@ const viniciusContacts = {
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusKanh&repo=Portfolio-HTML-JS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF" alt="Portfolio"/>
 </a>
 
-🚀 Próximos Projetos
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-open-source-digital-transformation-flaticons-flat-flat-icons.png" alt="Open Source" width="64"/>
-<br><strong>📦 Biblioteca Open Source</strong>
-<br><em>Ferramentas para análise de dados em Python</em>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-research-university-flaticons-flat-flat-icons.png" alt="Research" width="64"/>
-<br><strong>📄 Publicações Científicas</strong>
-<br><em>Artigos em conferências internacionais</em>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-community-digital-transformation-flaticons-flat-flat-icons.png" alt="Community" width="64"/>
-<br><strong>🌍 Democratização</strong>
-<br><em>Tornando Data Science mais acessível</em>
-</td>
-</tr>
-</table>
-
-</div>
 
 
 
