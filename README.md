@@ -4,8 +4,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Vinicius%20Souza%20Santos&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cientista%20e%20Analista%20de%20Dados&descAlignY=51&descAlign=50" />
 
-<!-- Typing Animation com mais frases -->
+<!-- Texto animado otimizado para responsividade -->
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=90&lines=🚀+Dados+em+insights+estratégicos;📊+Machine+Learning+e+IA+Aplicada;🎯+Modelos+em+diversos+setores;✨+Bem-vindo+ao+meu+universo!" alt="Typing SVG" />
+</div>
 
 
 <!-- Avatar com efeito hover -->
