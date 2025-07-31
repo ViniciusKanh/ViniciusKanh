@@ -14,7 +14,7 @@
 <!-- Avatar com efeito hover -->
 <br><br>
 <br/>
-<img src="https://private-user-images.githubusercontent.com/66964047/471251318-d366e680-ca60-4035-9d13-d18fec3ff993.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM3MTM2OTEsIm5iZiI6MTc1MzcxMzM5MSwicGF0aCI6Ii82Njk2NDA0Ny80NzEyNTEzMTgtZDM2NmU2ODAtY2E2MC00MDM1LTlkMTMtZDE4ZmVjM2ZmOTkzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI4VDE0MzYzMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg2MTkxYWY0ZDA4ZDVkOGYxYjg4ZTVmZTFhNDlhYjBhMTgzZDI1ZTk2ZmVlZGU3OGY2ZjNlOGFkNzA3YzU4ZWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.GQOuOSD9EKYEtcnnEjjiSvPZ-oQKhuyS_cU0MZKO4Hw" alt="Vinicius Avatar" width="200" height="200" style="border-radius: 50%; border: 4px solid #00D9FF; box-shadow: 0 0 20px #00D9FF;"/>
+<img src="https://github.com/ViniciusKanh/ViniciusKanh/blob/main/471251318-d366e680-ca60-4035-9d13-d18fec3ff993.png" alt="Vinicius Avatar" width="200" height="200" style="border-radius: 50%; border: 4px solid #00D9FF; box-shadow: 0 0 20px #00D9FF;"/>
 
 <!-- Badges animados com mais informações -->
 
@@ -39,7 +39,7 @@
 🚀 Sobre Mim
 
 <div align="left">
-<img align="right" alt="Data Science Animation" height="250" src="https://private-user-images.githubusercontent.com/66964047/471251340-7b1c9432-eed6-4db3-8203-bc052ebd9bb2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM3MTM3MzcsIm5iZiI6MTc1MzcxMzQzNywicGF0aCI6Ii82Njk2NDA0Ny80NzEyNTEzNDAtN2IxYzk0MzItZWVkNi00ZGIzLTgyMDMtYmMwNTJlYmQ5YmIyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI4VDE0MzcxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg0YzFjZTgxMTgxYjg3NTVmYWVjNmZlNzFkYjQxYTBiMDkyM2M4N2ZiMWQwNjNlNDJmMDkwODczZTI3Zjg4ZTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.c_Y3nZEJXCivJ6AN-zuenpcaK1_oloIHiHdosZJDqVA" style="margin-left: 20px;"/>
+<img align="right" alt="Data Science Animation" height="250" src="https://github.com/ViniciusKanh/ViniciusKanh/blob/main/471251340-7b1c9432-eed6-4db3-8203-bc052ebd9bb2.png" style="margin-left: 20px;"/>
 
 Sou Cientista e Analista de Dados apaixonado por transformar dados brutos em insights estratégicos que impulsionam decisões de negócio. Formado em Engenharia da Computação e atualmente mestrando em Ciência da Computação pela UNESP, com foco especializado em Ciência de Dados e Inteligência Artificial.
 
