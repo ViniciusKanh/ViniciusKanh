@@ -241,7 +241,6 @@ Minha paixão reside em desenvolver e implementar modelos de análise de dados q
   <img src="https://img.shields.io/badge/KDD-2196F3?style=for-the-badge&logoColor=white" alt="KDD"/>
   <img src="https://img.shields.io/badge/SEMMA-FF9800?style=for-the-badge&logoColor=white" alt="SEMMA"/>
   <img src="https://img.shields.io/badge/Agile%20Analytics-9C27B0?style=for-the-badge&logoColor=white" alt="Agile"/>
-  <img src="https://img.shields.io/badge/MLOps-F44336?style=for-the-badge&logoColor=white" alt="MLOps"/>
 </div>
 
 </div>
@@ -349,7 +348,6 @@ const viniciusContacts = {
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML"/>
   <img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="DL"/>
   <img src="https://img.shields.io/badge/Data_Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Viz"/>
-  <img src="https://img.shields.io/badge/Statistical_Analysis-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="Stats"/>
 </div>
 
 </div>
