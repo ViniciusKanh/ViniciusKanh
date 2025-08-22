@@ -202,7 +202,7 @@ Minha paixão reside em desenvolver e implementar modelos de análise de dados q
 <td align="center" width="33%">
 <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/100/null/external-bank-banking-flaticons-flat-flat-icons.png" alt="Financeiro" width="80"/>
 <br><strong>🏦 Setor Financeiro</strong>
-<br><em>Modelos de risco de crédito, detecção de fraudes, otimização de portfólios de investimento, análise de comportamento de pagamento.</em>
+<br><em>Modelos de risco de crédito, detecção de fraudes, análise de comportamento de pagamento.</em>
 </td>
 <td align="center" width="33%">
 <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/100/null/external-hospital-medical-and-healthcare-flaticons-flat-flat-icons.png" alt="Healthcare" width="80"/>
