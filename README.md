@@ -2,7 +2,7 @@
 
 <!-- Header com múltiplas animações -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Vinicius%20Souza%20Santos&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cientista%20e%20Analista%20de%20Dados&descAlignY=51&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Vinicius%20Souza%20Santos&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%20Analista%20de%20Dados&descAlignY=51&descAlign=50" />
 
 <!-- Texto animado otimizado para responsividade -->
 
@@ -258,7 +258,7 @@ Minha paixão reside em desenvolver e implementar modelos de análise de dados q
 | 🔧 Manutenção Preditiva            | *Ferramenta de Manutenção Preditiva para Transformadores de Potência*                                                                                  | Revista Contemporânea                   | 2024 |
 | 🎓 Tecnologia Educacional         | *Sistema Didático para Correção de Fator de Potência com DL69-2048/D52-2048*                                                                           | Brazilian Journal of Development        | 2024 |
 | 📚 Multidisciplinar               | *Capítulo: Machine Learning Aplicado à Saúde (obra coletiva)*                                                                                          | Machine Learning in Healthcare (Livro)  | 2024 |
-
+| 🏥 Saúde & IA Médica               | *Application of Machine Learning Algorithms to the Classification of Anemia Types: A Clinical Data-Driven Approach*                                           | ResearchGate  | 2025 |
 
 
 
