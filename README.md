@@ -353,53 +353,60 @@ const viniciusContacts = {
 </div>
 
 
-
-
-
-🎯 Áreas de Pesquisa & Interesse
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-artificial-intelligence-digital-transformation-flaticons-flat-flat-icons.png" alt="AI Research" width="64"/>
-<br><strong>🧠 IA Explicável</strong>
-<br><em>Interpretabilidade de modelos complexos</em>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-algorithm-data-science-flaticons-flat-flat-icons.png" alt="AutoML" width="64"/>
-<br><strong>🤖 AutoML</strong>
-<br><em>Automatização de pipelines de ML</em>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-ethics-philosophy-flaticons-flat-flat-icons.png" alt="Ethics" width="64"/>
-<br><strong>⚖️ IA Ética</strong>
-<br><em>Viés algorítmico e fairness</em>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-real-time-data-science-flaticons-flat-flat-icons.png" alt="Real-time" width="64"/>
-<br><strong>⚡ Real-time Analytics</strong>
-<br><em>Processamento de dados em tempo real</em>
-</td>
-</tr>
-</table>
-
-</div>
-
-
-
-
-
 🌟 Projetos em Destaque
 
 <div align="center">
 
-<!-- Repositórios em destaque -->
+<!-- Repositórios em destaque (clique na imagem para abrir o projeto) -->
+<table>
+  <tr>
+    <td>
+      <a href="https://viniciuskanh.github.io/Artificial-Immune-System-for-Software-Defects/">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusKanh&repo=Artificial-Immune-System-for-Software-Defects&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF" alt="Artificial Immune System"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://viniciuskanh.github.io/RecrAI/#/">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusKanh&repo=RecrAI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF" alt="RecrAI"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://viniciuskanh.github.io/AutoMarkt/">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusKanh&repo=AutoMarkt&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF" alt="AutoMarkt"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://viniciuskanh.github.io/CleanSight/">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusKanh&repo=CleanSight&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF" alt="CleanSight"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://viniciuskanh.github.io/portfolio/">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusKanh&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF" alt="Portfolio"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://viniciuskanh.github.io/IViagens/">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusKanh&repo=IViagens&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF" alt="IViagens"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://viniciuskanh.github.io/IVerify/">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusKanh&repo=IVerify&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF" alt="IVerify"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://viniciuskanh.github.io/medoraX/">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusKanh&repo=medoraX&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF" alt="medoraX"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/ViniciusKanh">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusKanh&repo=Portfolio-HTML-JS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF" alt="Portfolio"/>
-</a>
+</div>
+
 
 
 
@@ -410,38 +417,9 @@ const viniciusContacts = {
 
 <!-- Contribuições animadas -->
 
-🐍 Contribuições no GitHub
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-💭 Filosofia de Vida
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Os%20dados%20são%20o%20novo%20petróleo,%20mas%20como%20o%20petróleo,%20são%20valiosos%20apenas%20quando%20refinados.&author=Vinicius%20Souza%20Santos" alt="Quote"/>
-
-
-
-
-
 🎵 Spotify - Coding Playlist
 
 [![Spotify](https://img.icons8.com/fluency/48/000000/spotify.png)](https://open.spotify.com/user/12145547877)
-
-
-
-
-
 
 
 📈 Métricas Avançadas
