@@ -2,7 +2,7 @@
 
 <!-- Header com múltiplas animações -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Vinicius%20Souza%20Santos&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%20Analista%20de%20Dados&descAlignY=51&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Vinicius%20Souza%20Santos&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%20Ciência%20de%20Dados&descAlignY=51&descAlign=50" />
 
 <!-- Texto animado otimizado para responsividade -->
 
