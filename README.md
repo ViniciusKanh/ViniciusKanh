@@ -138,7 +138,7 @@ Business Intelligence e dashboards executivos
 
 <!-- GitHub Stats com tema personalizado -->
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusKanh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&border_radius=10"/>
+![GitHub stats simples](https://github-readme-stats.vercel.app/api?username=ViniciusKanh&show_icons=true&theme=tokyonight)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusKanh&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&border_radius=10"/>
 
@@ -152,38 +152,6 @@ Business Intelligence e dashboards executivos
 
 </div>
 
-
-
-
-
-🏆 Conquistas & Reconhecimentos
-
-<div align="center">
-
-<!-- GitHub Trophies -->
-
-<img src="https://github-profile-trophy.vercel.app/?username=ViniciusKanh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-
-<!-- Badges de conquistas -->
-
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/🎓_Mestrando-UNESP-blue?style=for-the-badge" alt="Mestrando"/>
-<br><strong>Ciência da Computação</strong>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/🏆_Graduado-Engenharia-green?style=for-the-badge" alt="Graduado"/>
-<br><strong>Engenharia da Computação</strong>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/📊_Especialista-Data_Science-orange?style=for-the-badge" alt="Especialista"/>
-<br><strong>Análise de Dados</strong>
-</td>
-</tr>
-</table>
-
-</div>
 
 
 
@@ -265,21 +233,26 @@ Minha paixão reside em desenvolver e implementar modelos de análise de dados q
 🌐 Conecte-se Comigo
 
 <div align="center">
+<div align="left">
 
 💼 Redes Profissionais
 
 ```js
-const viniciusContacts = {
-  🌟 portfolio: "https://viniciuskanh.github.io/Portfolio-HTML-JS/",
-  📧 email: "vinnyciussouza@outlook.com",
-  📍 location: "São Paulo, Brazil",
-  💼 linkedin: "https://www.linkedin.com/in/vinicius-souza-santoss/",
-  🏆 kaggle: "https://www.kaggle.com/viniciuskhan",
-  🤗 huggingface: "https://huggingface.co/ViniciusKhan",
-  📊 status: "Transformando dados em valor estratégico 24/7",
-  🎯 mission: "Democratizando a ciência de dados"
+const viniciusContactsPretty = {
+  "👤 Nome":         "Vinicius de Souza Santos",
+  "📍 Local":        "São Paulo, Brazil",
+  "✉️ Email":        "mailto:vinnyciussouza@outlook.com",
+  "🌐 Portfólio":    "https://viniciuskanh.github.io/Portfolio-HTML-JS/",
+  "🐙 GitHub":       "https://github.com/ViniciusKanh",
+  "💼 LinkedIn":     "https://www.linkedin.com/in/vinicius-souza-santoss/",
+  "🏆 Kaggle":       "https://www.kaggle.com/viniciuskhan",
+  "🤗 HuggingFace":  "https://huggingface.co/ViniciusKhan",
+  "📊 Status":       "Transformando dados em valor estratégico 24/7",
+  "🎯 Missão":       "Democratizando a ciência de dados"
 };
+
 ```
+</div>
 <!-- Links principais -->
 
 <p>
