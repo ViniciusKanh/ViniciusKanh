@@ -1,7 +1,15 @@
 name: Metrics
+
 on:
-  schedule: [{ cron: "0 0 * * *" }]
+  schedule:
+    # GitHub Actions usa UTC.
+    # 06:00 UTC = 03:00 no horário de Brasília.
+    - cron: "0 6 * * *"
+
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   github-metrics:
@@ -9,7 +17,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate metrics SVG
         uses: lowlighter/metrics@latest
@@ -27,6 +35,12 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
           git add metrics.svg
-          git commit -m "📊 Atualiza metrics.svg"
-          git push
+
+          if git diff --cached --quiet; then
+            echo "Nenhuma alteração em metrics.svg. Commit ignorado."
+          else
+            git commit -m "📊 Atualiza metrics.svg"
+            git push
+          fi
