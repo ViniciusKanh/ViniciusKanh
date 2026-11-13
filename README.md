@@ -1,45 +1,51 @@
 <!--
-  README DO PERFIL • VINICIUS DE SOUZA SANTOS
-  Repositório: https://github.com/ViniciusKanh/ViniciusKanh
-  Esta versão usa imagens REAIS já existentes em repositórios públicos.
-  Para publicar: substitua somente o README.md do repositório de perfil.
-  Algumas imagens e estatísticas dependem de provedores externos.
+  VINICIUS AI LAB | GitHub Profile README
+  Portfólio técnico-científico — Ciência de Dados, ML, GenAI e Engenharia
+  Imagens: projetos públicos em github.com/ViniciusKanh
+  Compatível com GitHub Flavored Markdown (GFM)
+  Sem CSS customizado ou JavaScript (não executados em READMEs GitHub).
 -->
 
 <div align="center">
 
-<img width="100%" alt="Vinicius de Souza Santos | Ciência de Dados e Inteligência Artificial" src="https://capsule-render.vercel.app/api?type=waving&height=275&color=0:081427,35:143556,70:087EAD,100:00C2E0&text=Vinicius%20Souza%20Santos&fontSize=45&fontColor=FFFFFF&fontAlignY=36&desc=Data%20Scientist%20%7C%20Machine%20Learning%20Researcher%20%7C%20AI%20Engineer&descSize=17&descAlignY=58&animation=twinkling" />
+<img width="100%" alt="Vinicius de Souza Santos | Data Science, Machine Learning & Generative AI" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:071525,38:0D3150,72:0B789E,100:16BED5&text=Vinicius%20Souza%20Santos&fontSize=48&fontColor=FFFFFF&fontAlignY=37&desc=DATA%20SCIENTIST%20%7C%20ML%20RESEARCHER%20%7C%20AI%20ENGINEER&descSize=18&descAlignY=61&animation=twinkling" />
 
 <a href="https://github.com/ViniciusKanh">
-  <img src="https://raw.githubusercontent.com/ViniciusKanh/ViniciusKanh/main/471251318-d366e680-ca60-4035-9d13-d18fec3ff993.png" alt="Foto ou avatar de Vinicius de Souza Santos" width="165" />
+  <img src="https://raw.githubusercontent.com/ViniciusKanh/ViniciusKanh/main/471251318-d366e680-ca60-4035-9d13-d18fec3ff993.png" alt="Vinicius de Souza Santos — imagem original do perfil" width="155" />
 </a>
 
+<br /><br />
+
+<a href="https://www.linkedin.com/in/vinicius-souza-santoss/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://huggingface.co/ViniciusKhan"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
+<a href="https://www.kaggle.com/viniciuskhan"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+<a href="https://viniciuskanh.github.io/Portfolio-HTML-JS/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0284C7?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio web" /></a>
+<a href="mailto:vinnyciussouza@outlook.com"><img src="https://img.shields.io/badge/Contato-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+
+<br /><br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3100&pause=1100&color=20C5E0&center=true&vCenter=true&width=820&height=95&lines=Da+pesquisa+cient%C3%ADfica+ao+produto+de+IA;Machine+Learning+%7C+LLMs+%7C+RAG+%7C+MLOps;Python+%7C+Data+Engineering+%7C+Analytics;Modelos+reproduz%C3%ADveis.+Sistemas+utiliz%C3%A1veis." alt="Apresentação animada de Ciência de Dados e Engenharia de IA" />
+
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1100&color=00C6EB&center=true&vCenter=true&width=820&height=95&lines=Transformando+dados+em+conhecimento+e+decis%C3%B5es;Construindo+Machine+Learning+e+IA+Generativa;Pesquisa+cient%C3%ADfica+%2B+engenharia+de+software;Modelos%2C+produtos%2C+experimentos+e+inova%C3%A7%C3%A3o" alt="Apresentação animada: Dados, Machine Learning e Inteligência Artificial" />
+<img src="https://img.shields.io/badge/UNESP-Mestrado%20em%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o-164E63?style=flat-square" alt="Mestrado UNESP" />
+<img src="https://img.shields.io/badge/%C3%81rea-Data%20Science%20%26%20Machine%20Learning-0369A1?style=flat-square" alt="Ciência de Dados" />
+<img src="https://img.shields.io/badge/Foco-Generative%20AI%20%26%20Research-6D4C9A?style=flat-square" alt="IA Generativa e Pesquisa" />
+<img src="https://komarev.com/ghpvc/?username=ViniciusKanh&color=0891B2&style=flat-square&label=VISITAS" alt="Contador de visitantes" />
+
+<br /><br />
+
+<strong>🔎 Acesse diretamente</strong>
 
 <br />
 
-<img src="https://img.shields.io/badge/%F0%9F%8E%93-UNESP%20%7C%20Mestrado-153A5B?style=for-the-badge" alt="Mestrando UNESP" />
-<img src="https://img.shields.io/badge/%F0%9F%A7%A0-Data%20Science-009BC9?style=for-the-badge" alt="Data Science" />
-<img src="https://img.shields.io/badge/%F0%9F%A4%96-Generative%20AI-6C55C2?style=for-the-badge" alt="Generative AI" />
-<img src="https://img.shields.io/badge/%F0%9F%94%AC-Research%20%26%20ML-0B967B?style=for-the-badge" alt="Research & ML" />
-
-<br /><br />
-
-<a href="https://www.linkedin.com/in/vinicius-souza-santoss/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Perfil%20profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://huggingface.co/ViniciusKhan"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-Modelos%20%26%20Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
-<a href="https://viniciuskanh.github.io/Portfolio-HTML-JS/"><img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-Explorar-00A8CC?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
-<a href="mailto:vinnyciussouza@outlook.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-Contato-334155?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
-
-<br /><br />
-
-<img src="https://komarev.com/ghpvc/?username=ViniciusKanh&color=00A9D6&style=for-the-badge&label=VISITAS+AO+PERFIL" alt="Visualizações de perfil" />
-<img src="https://img.shields.io/github/followers/ViniciusKanh?style=for-the-badge&logo=github&label=SEGUIDORES&color=00A9D6" alt="Seguidores no GitHub" />
-
-<br /><br />
-
-**[Sobre mim](#-sobre-mim)** · **[Laboratório visual](#-laboratório-visual)** · **[Projetos](#-projetos-em-destaque)** · **[Artigos](#-publicações-científicas-e-produção-acadêmica)** · **[Tecnologias](#-arsenal-tecnológico)** · **[Estatísticas](#-estatísticas-do-github)** · **[Contato](#-vamos-construir-algo-juntos)**
+<a href="#-sobre-mim">Sobre mim</a> &nbsp;·&nbsp;
+<a href="#-explore-meu-laboratório">Explore</a> &nbsp;·&nbsp;
+<a href="#-laboratório-visual">Demonstrações</a> &nbsp;·&nbsp;
+<a href="#-projetos-em-destaque">Projetos</a> &nbsp;·&nbsp;
+<a href="#-publicações-científicas-e-produção-acadêmica">Publicações</a> &nbsp;·&nbsp;
+<a href="#-arsenal-tecnológico">Stack</a> &nbsp;·&nbsp;
+<a href="#-estatísticas-do-github">Métricas</a>
 
 </div>
 
@@ -63,57 +69,126 @@ Minha atuação reúne dois ambientes complementares: **a pesquisa científica**
 
 <br clear="right" />
 
+<details>
+<summary><strong>🌍 Read my profile in English</strong></summary>
+
+I am a Computer Engineer and Master's student in Computer Science at UNESP, working across **Data Science, Machine Learning, Generative AI and software engineering**. My projects combine reproducible experimentation with applied systems: language models, retrieval-augmented generation, data platforms, analytical APIs, feature selection, model evaluation and explainability. Explore the repositories for architecture, source code, methodology and limitations.
+
+</details>
+
 ### 🎯 O que conecta meus trabalhos?
 
 <div align="center">
+<table>
+<tr><th width="25%">📚 Pesquisa</th><th width="25%">🧠 Modelagem</th><th width="25%">🏗️ Engenharia</th><th width="25%">📈 Impacto</th></tr>
+<tr><td align="center">Hipóteses, literatura, protocolos</td><td align="center">Algoritmos, dados e avaliação</td><td align="center">APIs, interfaces e automação</td><td align="center">Produtos e conhecimento</td></tr>
+<tr><td align="center"><strong>Rigor metodológico</strong></td><td align="center"><strong>Modelos interpretáveis</strong></td><td align="center"><strong>Sistemas utilizáveis</strong></td><td align="center"><strong>Resultados verificáveis</strong></td></tr>
+</table>
+</div>
 
-| 📚 Pesquisa | 🧠 Modelagem | 🏗️ Engenharia | 📈 Impacto |
-| :---: | :---: | :---: | :---: |
-| Problemas, hipóteses e literatura | Algoritmos, dados e avaliação | APIs, interfaces e automação | Decisões, produtos e conhecimento |
-| **Rigor metodológico** | **Modelos interpretáveis** | **Sistemas utilizáveis** | **Resultados verificáveis** |
+---
+
+## 🧭 Explore meu laboratório
+
+<div align="center">
+
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
+  <a href="#-01--ignis--pesquisa-em-modelos-de-linguagem-e-ia-multimodal"><img src="https://img.shields.io/badge/01-LLMs%20%26%20GenAI-6D50B8?style=for-the-badge" alt="Trilha LLMs e IA Generativa" /></a><br />
+  <sub>Transformers, visão, RAG, LoRA e modelos próprios</sub>
+</td>
+<td width="25%" align="center" valign="top">
+  <a href="#-03--predictive-bi--analytics-engenharia-de-dados-e-machine-learning"><img src="https://img.shields.io/badge/02-Data%20%26%20Analytics-0369A1?style=for-the-badge" alt="Trilha Data Analytics" /></a><br />
+  <sub>ETL, Data Quality, BI, APIs e automações</sub>
+</td>
+<td width="25%" align="center" valign="top">
+  <a href="#-04--pesquisa-científica-e-bibliotecas-de-machine-learning"><img src="https://img.shields.io/badge/03-ML%20Research-0B8E72?style=for-the-badge" alt="Trilha Pesquisa de Machine Learning" /></a><br />
+  <sub>Validação, seleção de atributos, ensembles e ciência aberta</sub>
+</td>
+<td width="25%" align="center" valign="top">
+  <a href="#-07--produtos-e-aplicações-completas"><img src="https://img.shields.io/badge/04-AI%20Products-C15A44?style=for-the-badge" alt="Trilha Produtos de IA" /></a><br />
+  <sub>FastAPI, React, interfaces, deploy e integrações</sub>
+</td>
+</tr>
+</table>
 
 </div>
+
+### ⚡ Da pergunta de pesquisa à aplicação
+
+```mermaid
+flowchart LR
+    A[Problema e hipótese] --> B[Dados e qualidade]
+    B --> C[Modelagem e validação]
+    C --> D[Interpretabilidade]
+    D --> E[API e orquestração]
+    E --> F[Produto e monitoramento]
+```
+
+<sub>Fluxo de trabalho que orienta o portfólio. É uma síntese metodológica, não uma declaração de que todo projeto implementa todas as etapas.</sub>
 
 ---
 
 ## 🎬 Laboratório visual
 
-**Imagens e demonstrações reais dos meus repositórios públicos.** Selecione um projeto para acessar arquitetura, código, metodologia e instruções de execução. A aparência e as funcionalidades mostradas correspondem às demonstrações documentadas pelos respectivos projetos.
+**Projetos reais, interfaces reais, experimentos documentados.** Explore as imagens para abrir os respectivos repositórios e consultar código, requisitos, resultados e limitações.
 
 <table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/ViniciusKanh/IGNIS-llm-Multimodal">
-        <img width="100%" src="https://raw.githubusercontent.com/ViniciusKanh/IGNIS-llm-Multimodal/main/docs/media/studio.gif" alt="IGNIS Multimodal: geração de imagens na interface" />
-      </a>
-      <br /><strong>🎨 IGNIS Multimodal</strong><br />Estúdio de geração e edição com IA.
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/ViniciusKanh/Predictive-BI-n8n-workflows">
-        <img width="100%" src="https://raw.githubusercontent.com/ViniciusKanh/Predictive-BI-n8n-workflows/main/docs/media/dashboard-tour.gif" alt="Predictive BI: navegação real pelo dashboard analítico" />
-      </a>
-      <br /><strong>📊 Predictive BI</strong><br />Analytics, predição e orquestração com n8n.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/ViniciusKanh/Neurix">
-        <img width="100%" src="https://raw.githubusercontent.com/ViniciusKanh/Neurix/main/docs/screenshots/ml-studio.png" alt="Neurix: interface do ML Studio" />
-      </a>
-      <br /><strong>🧪 Neurix</strong><br />Workbench para exploração e avaliação de ML.
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/ViniciusKanh/mercosul-energy-transition-ml">
-        <img width="100%" src="https://raw.githubusercontent.com/ViniciusKanh/mercosul-energy-transition-ml/main/results/figures/pca_clusters.png" alt="MERCOSUL: visualização PCA e clusters da pesquisa de transição energética" />
-      </a>
-      <br /><strong>🌎 MERCOSUL Energy ML</strong><br />Pesquisa sobre trajetórias de descarbonização.
-    </td>
-  </tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="https://github.com/ViniciusKanh/IGNIS-llm-Multimodal"><img width="100%" src="https://raw.githubusercontent.com/ViniciusKanh/IGNIS-llm-Multimodal/main/docs/media/studio.gif" alt="IGNIS Multimodal: geração de imagens em funcionamento" /></a>
+  <br /><strong>01 · IGNIS Multimodal</strong><br /><sub>Visão, geração e edição de imagens com modelos de difusão.</sub>
+  <br /><a href="https://github.com/ViniciusKanh/IGNIS-llm-Multimodal">Código e demonstrações</a>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="https://github.com/ViniciusKanh/Predictive-BI-n8n-workflows"><img width="100%" src="https://raw.githubusercontent.com/ViniciusKanh/Predictive-BI-n8n-workflows/main/docs/media/dashboard-tour.gif" alt="Predictive BI: navegação interativa real pelo dashboard" /></a>
+  <br /><strong>02 · Predictive BI</strong><br /><sub>Dashboard, modelos preditivos e backend em workflows n8n.</sub>
+  <br /><a href="https://github.com/ViniciusKanh/Predictive-BI-n8n-workflows">Arquitetura e instalação</a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="https://github.com/ViniciusKanh/Neurix"><img width="100%" src="https://raw.githubusercontent.com/ViniciusKanh/Neurix/main/docs/screenshots/ml-studio.png" alt="Neurix: ML Studio e ferramentas para Machine Learning" /></a>
+  <br /><strong>03 · Neurix</strong><br /><sub>Workbench local de exploração, treinamento e avaliação de ML.</sub>
+  <br /><a href="https://github.com/ViniciusKanh/Neurix">Explorar funcionalidades</a>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="https://github.com/ViniciusKanh/CleanSight"><img width="100%" src="https://raw.githubusercontent.com/ViniciusKanh/CleanSight/main/assets/Exemplo_Upload.gif" alt="CleanSight: envio e análise exploratória de datasets" /></a>
+  <br /><strong>04 · CleanSight</strong><br /><sub>Limpeza, transformação, visualização e preparação de dados.</sub>
+  <br /><a href="https://github.com/ViniciusKanh/CleanSight">Conhecer a ferramenta</a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="https://github.com/ViniciusKanh/mercosul-energy-transition-ml"><img width="100%" src="https://raw.githubusercontent.com/ViniciusKanh/mercosul-energy-transition-ml/main/results/figures/pca_clusters.png" alt="Pesquisa MERCOSUL: projeção PCA e agrupamentos" /></a>
+  <br /><strong>05 · MERCOSUL Energy ML</strong><br /><sub>Mineração de dados e trajetórias de transição energética.</sub>
+  <br /><a href="https://github.com/ViniciusKanh/mercosul-energy-transition-ml">Metodologia e evidências</a>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="https://github.com/ViniciusKanh/Predictive-BI-n8n-workflows"><img width="100%" src="https://raw.githubusercontent.com/ViniciusKanh/Predictive-BI-n8n-workflows/main/docs/media/workflow-tour.gif" alt="Predictive BI: demonstração dos workflows n8n" /></a>
+  <br /><strong>06 · Orquestração e automação</strong><br /><sub>ETL, APIs, pipelines e integração com modelos de ML.</sub>
+  <br /><a href="https://github.com/ViniciusKanh/Predictive-BI-n8n-workflows">Fluxos e documentação</a>
+</td>
+</tr>
 </table>
 
-<div align="center">
-  <sub>Os GIFs e gráficos acima foram referenciados diretamente de arquivos dos repositórios, sem criação de métricas ou resultados artificiais.</sub>
-</div>
+<details>
+<summary><strong>🖼️ Mais capturas: explicabilidade, qualidade de dados e comparação de modelos</strong></summary>
+
+<table>
+<tr>
+<td width="50%" align="center"><img width="100%" src="https://raw.githubusercontent.com/ViniciusKanh/Predictive-BI-n8n-workflows/main/docs/media/churn.jpg" alt="Análise de churn e explicabilidade no Predictive BI" /><br /><sub>Risco e explicabilidade — Predictive BI.</sub></td>
+<td width="50%" align="center"><img width="100%" src="https://raw.githubusercontent.com/ViniciusKanh/Neurix/main/docs/screenshots/champion-challenger.png" alt="Comparação Champion versus Challenger do Neurix" /><br /><sub>Champion vs. Challenger — Neurix.</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img width="100%" src="https://raw.githubusercontent.com/ViniciusKanh/mercosul-energy-transition-ml/main/results/figures/heatmap_centroides_artigo.png" alt="Mapa de calor dos centroides de clusters MERCOSUL" /><br /><sub>Perfis de agrupamento — pesquisa MERCOSUL.</sub></td>
+<td width="50%" align="center"><img width="100%" src="https://raw.githubusercontent.com/ViniciusKanh/IGNIS-llm-Multimodal/main/docs/media/comparacao.png" alt="Comparação do modelo base com adaptador IGNIS" /><br /><sub>Experimento de adaptação LoRA — IGNIS.</sub></td>
+</tr>
+</table>
+</details>
+
+> Imagens provenientes dos próprios projetos. Gráficos científicos devem ser interpretados com o protocolo experimental de cada repositório; GIFs não são benchmarks de desempenho.
 
 ---
 
@@ -356,6 +431,33 @@ Pesquisa sobre **trajetórias de descarbonização em países do MERCOSUL e asso
 
 ---
 
+## 💡 O que você encontra neste portfólio?
+
+<table>
+<tr>
+<td width="33%" valign="top"><strong>🧠 Construção de modelos</strong><br /><sub>Transformers, classificação supervisionada, calibração, ensembles, seleção de atributos e métodos de avaliação.</sub><br /><a href="https://github.com/ViniciusKanh/Ignis_30M">Ignis-30M</a> · <a href="https://github.com/ViniciusKanh/AnemiaClassifierML">AnemiaClassifierML</a></td>
+<td width="33%" valign="top"><strong>📑 IA com fontes</strong><br /><sub>RAG, embeddings, recuperação lexical/semântica, integração com arquivos e respostas ancoradas em evidências.</sub><br /><a href="https://github.com/ViniciusKanh/Aethra">Aethra</a> · <a href="https://github.com/ViniciusKanh/Analytical-Company">Analytical Company</a></td>
+<td width="33%" valign="top"><strong>📊 Dados para decisões</strong><br /><sub>Dashboards, modelagem analítica, ETL, qualidade de dados e automação de fluxos de negócio.</sub><br /><a href="https://github.com/ViniciusKanh/Predictive-BI-n8n-workflows">Predictive BI</a> · <a href="https://github.com/ViniciusKanh/Analytical-SalesForce">Analytical Force</a></td>
+</tr>
+</table>
+
+<details>
+<summary><strong>🔬 Abrir meu checklist metodológico de Data Science</strong></summary>
+
+- [x] Delimitar o problema e as hipóteses.
+- [x] Inspecionar proveniência, qualidade e distribuição dos dados.
+- [x] Definir divisões e validação adequadas ao problema (inclusive ordem temporal, quando necessário).
+- [x] Construir baselines e controlar o vazamento de informação.
+- [x] Avaliar métricas relevantes, incerteza e falhas por segmento ou classe.
+- [x] Documentar limitações, interpretabilidade e reprodutibilidade.
+- [x] Separar resultados científicos de demonstrações de produto.
+
+<sub>Princípios usados como referência de desenvolvimento; a abrangência implementada varia por projeto.</sub>
+
+</details>
+
+---
+
 ## 🗂️ Mais projetos do meu GitHub
 
 Além dos projetos anteriores, mantenho experimentos e aplicações em visão computacional, análise de dados, desenvolvimento web, segurança, energia e educação. Abaixo estão **repositórios reais**, agrupados por área.
@@ -401,18 +503,83 @@ Além dos projetos anteriores, mantenho experimentos e aplicações em visão co
 
 </details>
 
-### 🖼️ Projetos históricos em cards
+### 🖼️ Galeria de projetos: interfaces, ciência aplicada e sistemas inteligentes
 
-Uma seleção de aplicações de desenvolvimento web e ferramentas educativas que também fazem parte da minha trajetória.
+Não são apenas nomes de repositórios: **cada card abaixo aponta para código e demonstrações do projeto**. As miniaturas usam arquivos presentes nos repositórios — sem dependência dos cartões dinâmicos que estavam apresentando erro.
 
-<div align="center">
-  <a href="https://github.com/ViniciusKanh/Artificial-Immune-System-for-Software-Defects"><img width="47%" alt="Sistema imunológico artificial" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusKanh&repo=Artificial-Immune-System-for-Software-Defects&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/ViniciusKanh/RecrAI"><img width="47%" alt="RecrAI" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusKanh&repo=RecrAI&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/ViniciusKanh/AutoMarkt"><img width="47%" alt="AutoMarkt" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusKanh&repo=AutoMarkt&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/ViniciusKanh/CleanSight"><img width="47%" alt="CleanSight" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusKanh&repo=CleanSight&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/ViniciusKanh/IViagens"><img width="47%" alt="IViagens" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusKanh&repo=IViagens&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/ViniciusKanh/IVerify"><img width="47%" alt="IVerify" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusKanh&repo=IVerify&theme=tokyonight&hide_border=true" /></a>
-</div>
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+  <a href="https://github.com/ViniciusKanh/Artificial-Immune-System-for-Software-Defects"><img width="100%" src="https://raw.githubusercontent.com/ViniciusKanh/Artificial-Immune-System-for-Software-Defects/main/src/assets/project_banner.webp" alt="Artificial Immune System: identidade visual da simulação" /></a><br />
+  <strong>🧬 Artificial Immune System</strong><br />
+  <sub>Algoritmos bioinspirados para detecção de defeitos de software, com simulação didática.</sub><br />
+  <a href="https://github.com/ViniciusKanh/Artificial-Immune-System-for-Software-Defects">Ver repositório</a> · <a href="https://viniciuskanh.github.io/Artificial-Immune-System-for-Software-Defects/">Abrir demonstração</a>
+</td>
+<td width="50%" valign="top" align="center">
+  <a href="https://github.com/ViniciusKanh/RecrAI"><img width="65%" src="https://raw.githubusercontent.com/ViniciusKanh/RecrAI/main/frontend/RecrAI_logo.png" alt="RecrAI: identidade visual da plataforma de recrutamento" /></a><br />
+  <strong>🤖 RecrAI</strong><br />
+  <sub>Triagem e ranking de currículos por compatibilidade com vagas, com API FastAPI.</sub><br />
+  <a href="https://github.com/ViniciusKanh/RecrAI">Ver repositório</a> · <a href="https://viniciuskanh.github.io/RecrAI/#/">Abrir aplicação</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+  <a href="https://github.com/ViniciusKanh/AutoMarkt"><img width="100%" src="https://raw.githubusercontent.com/ViniciusKanh/AutoMarkt/main/img/Inicio.png" alt="AutoMarkt: interface do gerador de conteúdo com IA" /></a><br />
+  <strong>✨ AutoMarkt</strong><br />
+  <sub>Geração de conteúdo com IA via API em Python e frontend web.</sub><br />
+  <a href="https://github.com/ViniciusKanh/AutoMarkt">Ver repositório</a> · <a href="https://viniciuskanh.github.io/AutoMarkt/">Abrir aplicação</a>
+</td>
+<td width="50%" valign="top" align="center">
+  <a href="https://github.com/ViniciusKanh/CleanSight"><img width="100%" src="https://raw.githubusercontent.com/ViniciusKanh/CleanSight/main/assets/cleansight_cover.png" alt="CleanSight: capa da ferramenta de preparação e visualização de dados" /></a><br />
+  <strong>🧹 CleanSight</strong><br />
+  <sub>Preparação, transformação, análise exploratória e tratamento de datasets.</sub><br />
+  <a href="https://github.com/ViniciusKanh/CleanSight">Ver repositório</a> · <a href="https://github.com/ViniciusKanh/CleanSight#-funcionalidades">Explorar funções</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+  <a href="https://github.com/ViniciusKanh/IViagens"><img width="100%" src="https://raw.githubusercontent.com/ViniciusKanh/IViagens/main/0001-1272778183825381450.png" alt="IViagens: imagem de apresentação do projeto" /></a><br />
+  <strong>🧳 IViagens</strong><br />
+  <sub>Planejamento de viagens com roteiros personalizados, orçamento e integração de LLMs.</sub><br />
+  <a href="https://github.com/ViniciusKanh/IViagens">Ver repositório</a> · <a href="https://viniciuskanh.github.io/IViagens/">Abrir aplicação</a>
+</td>
+<td width="50%" valign="top" align="center">
+  <a href="https://github.com/ViniciusKanh/IVerify"><img width="70%" src="https://raw.githubusercontent.com/ViniciusKanh/IVerify/main/assets/logo-static.png" alt="IVerify: identidade visual da análise de crédito" /></a><br />
+  <strong>💳 IVerify</strong><br />
+  <sub>Simulação de análise de risco de crédito com XGBoost e API FastAPI.</sub><br />
+  <a href="https://github.com/ViniciusKanh/IVerify">Ver repositório</a> · <a href="https://viniciuskanh.github.io/IVerify/">Abrir aplicação</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+  <a href="https://github.com/ViniciusKanh/medoraX"><img width="80%" src="https://raw.githubusercontent.com/ViniciusKanh/medoraX/main/assets/img/Tela%20Inicial.png" alt="MedoraX: tela do protótipo de pesquisa em IA médica" /></a><br />
+  <strong>🏥 MedoraX</strong><br />
+  <sub>Protótipo experimental de análise multimodal e recuperação de informações em saúde; não é dispositivo diagnóstico.</sub><br />
+  <a href="https://github.com/ViniciusKanh/medoraX">Ver repositório</a> · <a href="https://viniciuskanh.github.io/medoraX/">Abrir projeto</a>
+</td>
+<td width="50%" valign="top" align="center">
+  <a href="https://github.com/ViniciusKanh/Monvy"><img width="100%" src="https://raw.githubusercontent.com/ViniciusKanh/Monvy/main/docs/screenshots/dashboard.png" alt="Monvy: captura real do dashboard de finanças" /></a><br />
+  <strong>💰 Monvy</strong><br />
+  <sub>Produto de acompanhamento financeiro com dashboards, histórico e relatórios.</sub><br />
+  <a href="https://github.com/ViniciusKanh/Monvy">Ver repositório</a>
+</td>
+</tr>
+</table>
+
+<details>
+<summary><strong>🎞️ Abrir as demonstrações animadas: AutoMarkt + CleanSight + IGNIS</strong></summary>
+
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/ViniciusKanh/AutoMarkt"><img width="100%" src="https://raw.githubusercontent.com/ViniciusKanh/AutoMarkt/main/img/Tela%20Inicial.gif" alt="AutoMarkt: animação demonstrando a interface" /></a></td>
+<td width="50%"><a href="https://github.com/ViniciusKanh/CleanSight"><img width="100%" src="https://raw.githubusercontent.com/ViniciusKanh/CleanSight/main/assets/Exemplo_Distribui%C3%A7%C3%A3o.gif" alt="CleanSight: gráfico e análises exploratórias" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/ViniciusKanh/IGNIS-llm-Multimodal"><img width="100%" src="https://raw.githubusercontent.com/ViniciusKanh/IGNIS-llm-Multimodal/main/docs/media/edicao-historico.gif" alt="IGNIS Multimodal: edição e histórico" /></a></td>
+<td width="50%"><a href="https://github.com/ViniciusKanh/Predictive-BI-n8n-workflows"><img width="100%" src="https://raw.githubusercontent.com/ViniciusKanh/Predictive-BI-n8n-workflows/main/docs/media/forecast-tour.gif" alt="Predictive BI: visualização de previsões" /></a></td>
+</tr>
+</table>
+</details>
 
 ---
 
@@ -461,14 +628,12 @@ A relação a seguir preserva trabalhos citados no perfil anterior. Quando não 
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="https://img.icons8.com/fluency/96/graduation-cap.png" width="72" alt="Ícone de pós-graduação" />
       <h3>Mestrado em Ciência da Computação</h3>
       <p><strong>UNESP — Universidade Estadual Paulista</strong></p>
       <p><strong>2025–2027 (previsão)</strong> · Em andamento</p>
       <p>Ciência de Dados, Inteligência Artificial, <em>Feature Selection</em>, classificação associativa e pesquisa experimental.</p>
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="https://img.icons8.com/fluency/96/engineering.png" width="72" alt="Ícone de engenharia" />
       <h3>Engenharia da Computação</h3>
       <p><strong>IFSP — Campus Birigui</strong></p>
       <p><strong>Graduação concluída</strong></p>
@@ -557,14 +722,14 @@ O desenvolvimento de projetos multidisciplinares me permite transitar entre dife
 
 <table>
   <tr>
-    <td align="center" width="33%"><img src="https://img.icons8.com/fluency/96/bank-building.png" alt="Finanças" width="64" /><br /><strong>🏦 Finanças e negócios</strong><br /><sub>Inadimplência, churn, CRM e analytics.</sub></td>
-    <td align="center" width="33%"><img src="https://img.icons8.com/fluency/96/hospital.png" alt="Saúde" width="64" /><br /><strong>🏥 Saúde e dados clínicos</strong><br /><sub>Anemia, obesidade, epidemiologia e classificação.</sub></td>
-    <td align="center" width="33%"><img src="https://img.icons8.com/fluency/96/factory.png" alt="Indústria" width="64" /><br /><strong>🏭 Indústria 4.0</strong><br /><sub>Manutenção preditiva e energia.</sub></td>
+    <td align="center" width="33%"><strong>🏦 Finanças e negócios</strong><br /><sub>Inadimplência, churn, CRM e analytics.</sub></td>
+    <td align="center" width="33%"><strong>🏥 Saúde e dados clínicos</strong><br /><sub>Anemia, obesidade, epidemiologia e classificação.</sub></td>
+    <td align="center" width="33%"><strong>🏭 Indústria 4.0</strong><br /><sub>Manutenção preditiva e energia.</sub></td>
   </tr>
   <tr>
-    <td align="center" width="33%"><img src="https://img.icons8.com/fluency/96/wind-turbine.png" alt="Energia" width="64" /><br /><strong>⚡ Energia e sustentabilidade</strong><br /><sub>Previsão energética e descarbonização.</sub></td>
-    <td align="center" width="33%"><img src="https://img.icons8.com/fluency/96/graduation-cap.png" alt="Educação" width="64" /><br /><strong>🎓 Educação e pesquisa</strong><br /><sub>Ferramentas didáticas e protocolos científicos.</sub></td>
-    <td align="center" width="33%"><img src="https://img.icons8.com/fluency/96/plant-under-sun.png" alt="Agro" width="64" /><br /><strong>🌾 Agronegócio</strong><br /><sub>Dados climáticos e risco de produtividade.</sub></td>
+    <td align="center" width="33%"><strong>⚡ Energia e sustentabilidade</strong><br /><sub>Previsão energética e descarbonização.</sub></td>
+    <td align="center" width="33%"><strong>🎓 Educação e pesquisa</strong><br /><sub>Ferramentas didáticas e protocolos científicos.</sub></td>
+    <td align="center" width="33%"><strong>🌾 Agronegócio</strong><br /><sub>Dados climáticos e risco de produtividade.</sub></td>
   </tr>
 </table>
 
@@ -574,22 +739,20 @@ O desenvolvimento de projetos multidisciplinares me permite transitar entre dife
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ViniciusKanh&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00C6EB&text_color=DDE8F1" alt="Estatísticas de contribuição de ViniciusKanh" />
-<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusKanh&layout=compact&langs_count=9&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=DDE8F1" alt="Principais linguagens utilizadas nos repositórios" />
+<a href="https://github.com/ViniciusKanh/ViniciusKanh/blob/main/github-metrics.svg"><img width="96%" src="https://raw.githubusercontent.com/ViniciusKanh/ViniciusKanh/main/github-metrics.svg" alt="Painel de métricas GitHub armazenado no repositório do perfil" /></a>
 
 <br />
 
-<img width="80%" src="https://streak-stats.demolab.com/?user=ViniciusKanh&theme=tokyonight&hide_border=true&background=0D1117&ring=00C6EB&fire=FF9D6A&currStreakLabel=00D9FF" alt="Sequência de contribuições do GitHub" />
+<a href="https://github.com/ViniciusKanh/ViniciusKanh/blob/main/metrics.svg"><img width="96%" src="https://raw.githubusercontent.com/ViniciusKanh/ViniciusKanh/main/metrics.svg" alt="Métricas adicionais armazenadas no repositório do perfil" /></a>
 
-<br />
+<br /><br />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusKanh&bg_color=0D1117&color=00D9FF&line=00C6EB&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de atividade do GitHub" />
+<a href="https://github.com/ViniciusKanh"><img src="https://img.shields.io/github/followers/ViniciusKanh?style=for-the-badge&logo=github&label=SEGUIDORES&color=0891B2" alt="Seguidores no GitHub" /></a>
+<a href="https://github.com/ViniciusKanh?tab=repositories"><img src="https://img.shields.io/badge/Projetos-Explorar%20Reposit%C3%B3rios-0369A1?style=for-the-badge&logo=github&logoColor=white" alt="Acessar repositórios" /></a>
 
-<br />
+<br /><br />
 
-<a href="https://github.com/ViniciusKanh/ViniciusKanh/blob/main/github-metrics.svg"><img width="95%" src="https://raw.githubusercontent.com/ViniciusKanh/ViniciusKanh/main/github-metrics.svg" alt="Métricas avançadas do GitHub" /></a>
-
-<sub>Estatísticas externas podem sofrer indisponibilidade e não substituem a avaliação dos projetos, códigos e artigos.</sub>
+<sub>Os painéis SVG acima são arquivos existentes no próprio repositório de perfil. Sua atualização depende da automação que os gera; podem não refletir atividade em tempo real.</sub>
 
 </div>
 
@@ -626,3 +789,5 @@ O desenvolvimento de projetos multidisciplinares me permite transitar entre dife
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:081427,35:143556,70:087EAD,100:00C2E0&fontColor=FFFFFF&text=Obrigado%20pela%20visita!&fontSize=28&fontAlignY=75&desc=Ci%C3%AAncia%20%E2%80%A2%20Tecnologia%20%E2%80%A2%20Colabora%C3%A7%C3%A3o&descSize=15&descAlignY=95" alt="Obrigado pela visita — Ciência, Tecnologia e Colaboração" />
 
 </div>
+
+<!-- README: arte visual e capturas de tela vinculadas aos próprios repositórios. Nenhum resultado científico foi inventado para esta apresentação. -->
